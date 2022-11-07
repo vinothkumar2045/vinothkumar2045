@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vinothkumar2045
 - 👀 I’m interested in developing webpage
 - 🌱 I’m currently learning B.TECH INFORMATION TECHNOLOGY
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me cpvinoth5@gmail.com
 
 <!---
